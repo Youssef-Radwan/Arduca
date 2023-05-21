@@ -14,7 +14,7 @@ def view_past_Inbody_results(user_id):
 
 
 def new_Inbody_test(user_id, gender):
-    print(f"""Hello {user_id}, Would you like to use your (P) previously entered information or enter (N) new information? (P/N)
+    print(f"""Hello {user_id}, Would you like to use your (P)previously entered information or enter (N)new information? (P/N)
     E.G. Age, Height and Weight""")
     new_inbody_test_choice = input()
     if new_inbody_test_choice.upper() == 'P':
