@@ -1,6 +1,6 @@
 # Arduca
 
-Arduca is an open-source project written in C language that calculates the following body composition percentages: fat, muscle, bone, water, VFI (Visceral Fat Index), and BMR (Basal Metabolic Rate). It supports both male and female users and is easy to use. Arduca is constantly being updated with new features and improvements.
+Arduca is an open-source project written in Python language that calculates the following body composition percentages: fat, muscle, bone, water, VFI (Visceral Fat Index), and BMR (Basal Metabolic Rate). It supports both male and female users and is easy to use. Arduca is constantly being updated with new features and improvements.
 
 Here are some of the features of Arduca:
 
@@ -18,7 +18,7 @@ There are two ways to install Arduca:
 1. Download the Arduca source code from GitHub.
 2. Open the Arduca project in your favorite IDE.
 3. Install the necessary dependencies.
-4. Build and run the Arduca project.
+4. Run the Arduca project.
 
 **Instant installation (currently in development)**
 
