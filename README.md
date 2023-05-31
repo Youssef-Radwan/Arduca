@@ -41,7 +41,7 @@ Arduca is released under the AGPL-3.0 license. This means that you are free to u
 
 **Contact**
 
-If you have any questions or suggestions, please contact the Arduca developers at [email protected]
+If you have any questions or suggestions, please contact the Arduca developers.
 
 **Additional information**
 
