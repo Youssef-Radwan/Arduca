@@ -20,10 +20,12 @@ There are two ways to install Arduca:
 3. Install the necessary dependencies.
 4. Build and run the Arduca project.
 
-**Primary installation**
+**Instant installation (currently in development)**
 
 1. Download the Arduca installer from the Arduca website.
 2. Run the installer and follow the on-screen instructions.
+
+**Please note that the primary installation method is currently in development and may not be available to all users. If you are unable to install Arduca using this method, please try the manual installation method.**
 
 **Usage**
 
